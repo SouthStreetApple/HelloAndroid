@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mainImageTopMargin">40dp</dimen>
+    <dimen name="mainImageHeight">300dp</dimen>
+    <dimen name="mainImageHeightHor">100dp</dimen>
+    <dimen name="itemsMarginTop">4dp</dimen>
+    <dimen name="itemsMargin">20dp</dimen>
+    <dimen name="textSize">24sp</dimen>
+</resources>
